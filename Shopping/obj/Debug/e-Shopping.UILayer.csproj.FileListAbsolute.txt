@@ -1,0 +1,36 @@
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\bin\Shopping.dll
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\bin\Shopping.pdb
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\Shopping.dll
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\Shopping.pdb
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\e-Shopping.UILayer.csprojResolveAssemblyReference.cache
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\ProblemSolving\Shopping\bin\e-Shopping.EntityLayer.dll
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\ProblemSolving\Shopping\bin\e-ShoppingBuisnessLayer.dll
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\ProblemSolving\Shopping\bin\e-Shopping.EntityLayer.pdb
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\ProblemSolving\Shopping\bin\e-ShoppingBuisnessLayer.pdb
+F:\e-Shopping\Shopping\obj\Debug\e-Shopping.UILayer.csprojResolveAssemblyReference.cache
+F:\e-Shopping\Shopping\obj\Debug\Shopping.dll
+F:\e-Shopping\Shopping\obj\Debug\Shopping.pdb
+F:\e-Shopping\Shopping\bin\Shopping.dll
+F:\e-Shopping\Shopping\bin\Shopping.pdb
+F:\e-Shopping\Shopping\bin\e-Shopping.EntityLayer.dll
+F:\e-Shopping\Shopping\bin\e-ShoppingBuisnessLayer.dll
+F:\e-Shopping\Shopping\bin\e-Shopping.EntityLayer.pdb
+F:\e-Shopping\Shopping\bin\e-ShoppingBuisnessLayer.pdb
+F:\e-Shopping\Shopping\bin\e-ShoppingDataLayer.dll
+F:\e-Shopping\Shopping\bin\e-ShoppingDataLayer.pdb
+F:\e-Shopping\Shopping\bin\Nemiro.OAuth.dll
+F:\e-Shopping\Shopping\bin\Nemiro.OAuth.xml
+H:\DotNet\project\e-Shopping\Shopping\bin\Shopping.dll.config
+H:\DotNet\project\e-Shopping\Shopping\bin\Shopping.dll
+H:\DotNet\project\e-Shopping\Shopping\bin\Shopping.pdb
+H:\DotNet\project\e-Shopping\Shopping\bin\e-Shopping.EntityLayer.dll
+H:\DotNet\project\e-Shopping\Shopping\bin\e-ShoppingBuisnessLayer.dll
+H:\DotNet\project\e-Shopping\Shopping\bin\e-ShoppingDataLayer.dll
+H:\DotNet\project\e-Shopping\Shopping\bin\Nemiro.OAuth.dll
+H:\DotNet\project\e-Shopping\Shopping\bin\e-Shopping.EntityLayer.pdb
+H:\DotNet\project\e-Shopping\Shopping\bin\e-ShoppingBuisnessLayer.pdb
+H:\DotNet\project\e-Shopping\Shopping\bin\e-ShoppingDataLayer.pdb
+H:\DotNet\project\e-Shopping\Shopping\bin\Nemiro.OAuth.xml
+H:\DotNet\project\e-Shopping\Shopping\obj\Debug\e-Shopping.UILayer.csprojResolveAssemblyReference.cache
+H:\DotNet\project\e-Shopping\Shopping\obj\Debug\Shopping.dll
+H:\DotNet\project\e-Shopping\Shopping\obj\Debug\Shopping.pdb

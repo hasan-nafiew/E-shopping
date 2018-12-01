@@ -1,0 +1,5 @@
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\bin\Shopping.dll
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\bin\Shopping.pdb
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\Shopping.dll
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\Shopping.pdb
+C:\Users\Hasan Seam\Documents\Visual Studio 2012\Projects\ProblemSolving\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache

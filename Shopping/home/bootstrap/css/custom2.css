@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.imageProduct{
+     height:150px;
+    width:auto;
+}
+
+.spad{
+    padding-top:25px;
+}
+
+@media (min-width: 1200px) {
+    .span9c {
+        width: 842px;
+    }
+}

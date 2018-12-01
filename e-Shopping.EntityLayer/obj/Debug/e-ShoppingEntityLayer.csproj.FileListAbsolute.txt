@@ -1,0 +1,9 @@
+F:\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.dll
+F:\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+F:\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
+F:\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb
+H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.dll
+H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-ShoppingEntityLayer.csprojResolveAssemblyReference.cache
+H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
+H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb

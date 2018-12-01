@@ -1,0 +1,15 @@
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.dll
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.pdb
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.csprojResolveAssemblyReference.cache
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.dll
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.pdb
+F:\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.dll
+F:\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.pdb
+F:\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.csprojResolveAssemblyReference.cache
+F:\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.dll
+F:\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.pdb
+H:\DotNet\project\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.dll
+H:\DotNet\project\e-Shopping\e-ShoppingDataLayer\bin\Debug\e-ShoppingDataLayer.pdb
+H:\DotNet\project\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.csprojResolveAssemblyReference.cache
+H:\DotNet\project\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.dll
+H:\DotNet\project\e-Shopping\e-ShoppingDataLayer\obj\Debug\e-ShoppingDataLayer.pdb

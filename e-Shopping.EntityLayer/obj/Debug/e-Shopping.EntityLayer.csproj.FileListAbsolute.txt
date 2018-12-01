@@ -1,0 +1,10 @@
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.dll
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
+c:\users\hasan seam\documents\visual studio 2012\Projects\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb
+C:\Users\Hasan Seam\documents\visual studio 2012\Projects\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.csprojResolveAssemblyReference.cache
+F:\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.dll
+F:\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+F:\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.csprojResolveAssemblyReference.cache
+F:\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
+F:\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb
