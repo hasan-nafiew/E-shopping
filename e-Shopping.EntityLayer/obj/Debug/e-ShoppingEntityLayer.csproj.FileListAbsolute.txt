@@ -7,3 +7,9 @@ H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityL
 H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-ShoppingEntityLayer.csprojResolveAssemblyReference.cache
 H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
 H:\DotNet\project\e-Shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.dll
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\obj\Debug\e-ShoppingEntityLayer.csprojAssemblyReference.cache
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\obj\Debug\e-ShoppingEntityLayer.csproj.CoreCompileInputs.cache
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.dll
+G:\DotNet\project\git\E-shopping\e-Shopping.EntityLayer\obj\Debug\e-Shopping.EntityLayer.pdb

@@ -21,3 +21,14 @@ H:\DotNet\project\e-Shopping\e-ShoppingBuisnessLayer\bin\Debug\e-ShoppingDataLay
 H:\DotNet\project\e-Shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.csprojResolveAssemblyReference.cache
 H:\DotNet\project\e-Shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.dll
 H:\DotNet\project\e-Shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.pdb
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-ShoppingBuisnessLayer.dll
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-ShoppingBuisnessLayer.pdb
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-Shopping.EntityLayer.dll
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-ShoppingDataLayer.dll
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-Shopping.EntityLayer.pdb
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\bin\Debug\e-ShoppingDataLayer.pdb
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.csprojAssemblyReference.cache
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.csproj.CoreCompileInputs.cache
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.csproj.CopyComplete
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.dll
+G:\DotNet\project\git\E-shopping\e-ShoppingBuisnessLayer\obj\Debug\e-ShoppingBuisnessLayer.pdb

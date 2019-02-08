@@ -19,7 +19,7 @@
         </h2>
         <hr class="soft" />
         <p align="justify" style="font-size: 16px;">
-            ElectroBuzz is an online electronic shopping portal developed by a Team currently enrolled in DOTNET 9th batch 2017.
+            ElectroBuzz is an online electronic shopping portal developed by a Team currently enrolled in DOTNET 36th batch 2018.
     In this website you will be able to browse and purchase the latest technological products at the most competitive price possible. 
     Our products span extends all electronic categories such as Mobile Phones, Cameras, Laptops, etc., which we personally acquire from 100% genuine dealers. 
     We strongly believe in customer satisfaction, that is why we provide a one-month brand replacement warranty* to assure that your hard earned money is never wasted. 
@@ -51,37 +51,34 @@
             </div>
             <div class="span3">
                 <div class="well">
+                    <img src="App_Resource_Image/Team/nafiew.jpg" alt="Nafiew" style="width: 230px; height: 230px;">
+                    <div class="container">
+                        <h2>Hasan Ali Nafiew</h2>
+                        <p class="title">Top Contributor<br />(Full Stack Developer .Net)</p>
+                        <p>Contact No: +8801612-832250</p>
+                        <a href="https://www.facebook.com/hasan.nafiew">Facebook</a>
+                            <a href="https://www.linkedin.com/in/hasanalinafiew" target="_blank">Linkedin</a>
+                                <a href="mailto:hasan.nafiew@gmail.com" target="_blank">Gmail</a>
+                        <a href="App_Resource_Image/Team/Hasanur Jaman Seamcvforjr.pdf" download> CV </a>
+                        <br />
+                    </div>
+                </div>
+                </div>
+            <div class="span3">
+                <div class="well">
                     <img src="App_Resource_Image/Team/Seam.jpg" alt="Seam" style="width: 230px; height: 230px;">
                     <div class="container">
                         <h2>Hasan Seam</h2>
                         <p class="title">Top Contributor<br />(Full Stack Developer .Net)</p>
                         <p>Contact No: +8801741-330270</p>
                         <a href="https://www.facebook.com/hasan.seam">Facebook</a>
-                            <a href="https://www.linkedin.com/in/hasanseam37">Linkedin</a>
-                                <a href="mailto:hasanseam37@gmail.com">Gmail</a>
+                        <a href="https://www.linkedin.com/in/hasanseam37">Linkedin</a>
+                        <a href="mailto:hasanseam37@gmail.com">Gmail</a>
                         <a href="App_Resource_Image/Team/Hasanur Jaman Seamcvforjr.pdf" download> CV </a>
                         <br />
                     </div>
                 </div>
-                </div>
-                <div class="span3">
-                    <div class="well">
-                        <img src="App_Resource_Image/Team/Faruk.jpg" alt="Faruk" style="width: 230px; height: 230px;">
-                        <div class="container">
-                            <h2>Omar Faruk</h2>
-                            <p class="title">Database Administrator</p>
-                            <p>Contact No: +8801837-362245</p>
-                            <a href="https://www.facebook.com/faruk.jewel.31">
-                                Facebook</a>&nbsp;&nbsp;
-                                <a href="https://www.linkedin.com/in/omar-faruk-jewel-3a034196">
-                                    Linkedin</a>&nbsp;&nbsp;
-                                <a href="mailto:farukcse18@gmail.com">
-                                    Gmail</a><br />
-                            <br />
-                            <a href="mailto:farukcse18@gmail.com"></a>
-                        </div>
-                    </div>
-                </div>
+            </div>
             </div>
 
             <%--<style>

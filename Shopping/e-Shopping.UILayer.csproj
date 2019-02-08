@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -180,7 +182,7 @@
     </Content>
     <Content Include="home\App_Resource_Image\Team\Arafat.jpg" />
     <Content Include="home\App_Resource_Image\Team\Arif.jpg" />
-    <Content Include="home\App_Resource_Image\Team\Faruk.jpg" />
+    <Content Include="home\App_Resource_Image\Team\nafiew.jpg" />
     <Content Include="home\App_Resource_Image\Team\Seam.jpg" />
     <Content Include="home\App_Resource_Image\Team\Shifath.jpg" />
     <Content Include="home\bootstrap\css\custom2.css" />
