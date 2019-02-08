@@ -180,6 +180,15 @@
     <Content Include="admin\Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="home\App_Resource_Image\ProductImage\14-bs547tu-pqc-n3710-black-4_1.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\27072243_812928215582041_4484261128731089273_n.png" />
+    <Content Include="home\App_Resource_Image\ProductImage\apple-iphone-x.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\HIKVISION_DS-2CE16D0T-1.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\NickonD7500.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\P452LA.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\samsung-galaxy-a8-a530f.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\samsung-galaxy-j2-2018-sm-j250-.jpg" />
+    <Content Include="home\App_Resource_Image\ProductImage\x441na-black-1.jpg" />
     <Content Include="home\App_Resource_Image\Team\Arafat.jpg" />
     <Content Include="home\App_Resource_Image\Team\Arif.jpg" />
     <Content Include="home\App_Resource_Image\Team\nafiew.jpg" />
@@ -529,6 +538,7 @@
     <Content Include="home\App_Resource_Image\Team\Hasanur Jaman Seamcvforjr.pdf" />
     <Content Include="home\productsHandler.ashx" />
     <Content Include="home\bootstrap\jquery-ui-1.12.1.custom\package.json" />
+    <Content Include="home\App_Resource_Image\Team\CV_Md.Hasan_Ali.pdf" />
     <None Include="home\web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
@@ -543,9 +553,7 @@
       <DependentUpon>web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="home\App_Resource_Image\ProductImage\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\e-Shopping.EntityLayer\e-ShoppingEntityLayer.csproj">
       <Project>{b79f7f11-8414-4cf8-ae85-030dc8a1bab5}</Project>

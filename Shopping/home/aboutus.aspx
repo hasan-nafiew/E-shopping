@@ -56,10 +56,10 @@
                         <h2>Hasan Ali Nafiew</h2>
                         <p class="title">Top Contributor<br />(Full Stack Developer .Net)</p>
                         <p>Contact No: +8801612-832250</p>
-                        <a href="https://www.facebook.com/hasan.nafiew">Facebook</a>
+                        <a href="https://www.facebook.com/hasan.nafiew" target="_blank">Facebook</a>
                             <a href="https://www.linkedin.com/in/hasanalinafiew" target="_blank">Linkedin</a>
                                 <a href="mailto:hasan.nafiew@gmail.com" target="_blank">Gmail</a>
-                        <a href="App_Resource_Image/Team/Hasanur Jaman Seamcvforjr.pdf" download> CV </a>
+                        <a href="App_Resource_Image/Team/CV_Md.Hasan_Ali.pdf" download> CV </a>
                         <br />
                     </div>
                 </div>
@@ -71,10 +71,9 @@
                         <h2>Hasan Seam</h2>
                         <p class="title">Top Contributor<br />(Full Stack Developer .Net)</p>
                         <p>Contact No: +8801741-330270</p>
-                        <a href="https://www.facebook.com/hasan.seam">Facebook</a>
-                        <a href="https://www.linkedin.com/in/hasanseam37">Linkedin</a>
-                        <a href="mailto:hasanseam37@gmail.com">Gmail</a>
-                        <a href="App_Resource_Image/Team/Hasanur Jaman Seamcvforjr.pdf" download> CV </a>
+                        <a href="https://www.facebook.com/hasan.seam" target="_blank">Facebook</a>
+                        <a href="https://www.linkedin.com/in/hasanseam37" target="_blank">Linkedin</a>
+                        <a href="mailto:hasanseam37@gmail.com" target="_blank">Gmail</a>
                         <br />
                     </div>
                 </div>
